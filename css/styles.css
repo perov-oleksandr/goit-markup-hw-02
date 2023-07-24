@@ -83,7 +83,6 @@ body {
 .mail-tel-link:focus {
     color: var(--pressed-state-color);
 }
-
 /* Hero */
 .hero {
     background-color: var(--secondary-color);
